@@ -1,1 +1,1 @@
-**Pexelicons**: Created a web app for customizing Windows folder icons using HTML, CSS, and JavaScript, featuring a library of downloadable ICO icons and an easy-to-follow user guide.
+**Pexelicons**: Developed a web application for customizing Windows folder icons with HTML, CSS, and JavaScript. The platform offers a range of downloadable ICO icons and a detailed user guide for seamless personalization.
